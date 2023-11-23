@@ -1,0 +1,99 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Jeans Army",
+        "recipe": "Availabe for young ages people",
+        "image": "http://localhost:5000/jeans1.jpg",
+        "category": "pant",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Jeans Blue",
+        "recipe": "Blue Jeans for Young aged People",
+        "image": "http://localhost:5000/jeans2.jpg",
+        "category": "pant",
+        "price": 14.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Jeans General",
+        "recipe": "Jeans General For Young People",
+        "image": "http://localhost:5000/jeans3.jpg",
+        "category": "pant",
+        "price": 13.3
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Jeans Grey",
+        "recipe": "Jeans Grey For Young People",
+        "image": "http://localhost:5000/jeans4.jpg",
+        "category": "pant",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Shirt Cheque Blue",
+        "recipe": "Shirt Cheque Blue For Young People",
+        "image": "http://localhost:5000/shirt1.jpg",
+        "category": "shirt",
+        "price": 10.4
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Shirt Cheque Coffe",
+        "recipe": "Shirt Cheque Coffe For Young People",
+        "image": "http://localhost:5000/shirt2.jpg",
+        "category": "shirt",
+        "price": 9.6
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Shirt Ash",
+        "recipe": "Shirt Ash For Young People",
+        "image": "http://localhost:5000/shirt3.jpg",
+        "category": "popular",
+        "price": 9.6
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Shirt Black",
+        "recipe": "Shirt Black For Young People",
+        "image": "http://localhost:5000/shirt4.jpg",
+        "category": "popular",
+        "price": 9.6
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee79",
+        "name": "long Sleeve Black",
+        "recipe": "long Sleeve Black For Young People",
+        "image": "http://localhost:5000/top1.jpg",
+        "category": "popular",
+        "price": 10.4
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8f",
+        "name": "long Sleeve Pink",
+        "recipe": "long Sleeve Pink Young People",
+        "image": "http://localhost:5000/top2.jpg",
+        "category": "popular",
+        "price": 9.6
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8h",
+        "name": "long Sleeve light Pink",
+        "recipe": "long Sleeve light Pink For Young People",
+        "image": "http://localhost:5000/top3.jpg",
+        "category": "popular",
+        "price": 9.6
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8k",
+        "name": "long Sleeve Red",
+        "recipe": "long Sleeve Red For Young People",
+        "image": "http://localhost:5000/top4.jpg",
+        "category": "popular",
+        "price": 9.6
+    }
+      
+]
